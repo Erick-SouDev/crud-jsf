@@ -19,6 +19,14 @@ O projeto, embora simples, apresenta desafios relevantes para os estudantes ao a
 
 4. **JasperReports:**
    - Implementado para a geração de relatórios detalhados (opcional, dependendo do escopo do projeto).
+  
+   ![jasper](https://github.com/Erick-SouDev/crud-jsf/assets/139890795/c33676c7-34ea-4bd5-b559-0b06e724a1c0)
+![hibernate](https://github.com/Erick-SouDev/crud-jsf/assets/139890795/d9f76739-ca7d-4f47-be83-b344c2a43444)
+![postgres](https://github.com/Erick-SouDev/crud-jsf/assets/139890795/ecd41be7-7784-4774-8dbf-7391027c7d08)
+![bootfaces](https://github.com/Erick-SouDev/crud-jsf/assets/139890795/5ad5c18c-1ebd-48b6-b2e1-4368e850c91c)
+![xhtml](https://github.com/Erick-SouDev/crud-jsf/assets/139890795/f79a0f55-50dc-4551-a347-fd08a0bed007)
+![java](https://github.com/Erick-SouDev/crud-jsf/assets/139890795/ff0f73d8-64fc-438c-a025-3ce6fb2e80cd)
+![jsf](https://github.com/Erick-SouDev/crud-jsf/assets/139890795/35b09c6d-d5ad-4c89-af53-698f923b84a5)
 
 ## Complexidade
 Apesar de sua simplicidade, o projeto representa um desafio significativo para os estudantes. A implementação das operações CRUD exige uma compreensão aprofundada das tecnologias utilizadas, enquanto a geração de relatórios complexos com JasperReports adiciona uma camada adicional de desafio ao projeto.
