@@ -1,4 +1,4 @@
-package br.com.cursojsf;
+package br.com.controler.bean;
 
 import java.io.Serializable;
 import java.util.ArrayList;
